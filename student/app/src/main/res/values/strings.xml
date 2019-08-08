@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Students List</string>
+    <string-array name="names">
+        <item>David</item>>
+        <item>Steven</item>
+        <item>Adam</item>
+    </string-array>
+
+    <string-array name="studentID">
+        <item>11234</item>
+        <item>11235</item>
+        <item>11236</item>
+    </string-array>
+    <string-array name="major">
+        <item>SE</item>
+        <item>CE</item>
+        <item>SE</item>
+    </string-array>
+</resources>
